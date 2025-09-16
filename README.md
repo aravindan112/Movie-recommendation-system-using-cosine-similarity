@@ -19,8 +19,8 @@ Implemented **content-based** and/or **collaborative filtering** approaches usin
 ## 🛠️ Tech Stack
 - Python  
 - Pandas, NumPy  
-- Scikit-learn  
-- Matplotlib, Seaborn  
+- TfidVectorizer
+- difflib
 
 ---
 
