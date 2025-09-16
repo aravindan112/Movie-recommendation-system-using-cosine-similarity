@@ -2,7 +2,7 @@
 
 # Movie Recommendation System using Machine Learning
 
-This project implements a **Movie Recommendation System** using Python and Machine Learning techniques.  
+This project implements a **Movie Recommendation System** using Python and Machine Learning techniques(cosine-similarity).  
 
 ## 🚀 Project Overview
 The goal of this project is to recommend movies to users based on similarities in ratings and preferences.  
